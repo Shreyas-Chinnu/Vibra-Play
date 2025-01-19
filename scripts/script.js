@@ -45,7 +45,7 @@ new Vue({
           name:"Gamyave",
           artist:"Armaan Malik",
           cover:"https://th.bing.com/th/id/OIP.eeANPpudcaaRc5wjzmDYiQHaE8?rs=1&pid=ImgDetMain",
-          source:"mp3/99_Gamyave",
+          source:"mp3/99_Gamyave.mp3",
           url:"https://youtu.be/vbHIDcbmxgY?si=5U3ifI7aySFbU-cO",
           favorite: false
         },
@@ -61,7 +61,7 @@ new Vue({
           name:"Yaaru Yaaru",
           artist:"Shankar Mahadevan",
           cover:"https://i.ytimg.com/vi/PrYwhRi_PEI/maxresdefault.jpg",
-          source:"mp3/Yaaru_Yaaru",
+          source:"mp3/Yaaru_Yaaru.mp3",
           url:"https://youtu.be/J-6H_iDdGng?si=HgGawYqUpy8Fy_4a",
           favorite: false
         },
@@ -77,7 +77,7 @@ new Vue({
           name:"ಕಲ್ಲಾದರೆ ನಾನು - Kalladare Naanu",
           artist:"SPB",
           cover:"https://m.media-amazon.com/images/I/91QS6Ia6xPL._SL1500_.jpg",
-          source:"Kalladare_Naanu.mp3",
+          source:"mp3/Kalladare_Naanu.mp3",
           url:"https://youtu.be/TSSnAyCd9lg?si=2QoNDyyxZhZcvYwB",
           favorite: false
         },
@@ -117,7 +117,7 @@ new Vue({
           name: "Oh Anahita",
           artist:"Chandrajith, Gagan Baderiya",
           cover:"https://i.ytimg.com/vi/CxX1mzjTOsY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARrXRrEnQeREZkPC-GRudcco_67Q&days_since_epoch=19999",
-          source:"mp3/Oh_Anahita",
+          source:"mp3/Oh_Anahita.mp3",
           url:"https://youtu.be/CxX1mzjTOsY?si=35levgkjX4HM__my",
           favorite: false
         },
