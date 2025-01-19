@@ -66,7 +66,7 @@ new Vue({
           favorite: false
         },
         {
-          name:"aagadu endu kailaagadu endu",
+          name:"Aagadu endu kailaagadu endu",
           artist:"DR Rajkumar",
           cover:"https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-2655/list/002655list.jpg",
           source:"mp3/aagadu_endu.mp3",
@@ -109,7 +109,7 @@ new Vue({
           name: "Rise of Mahaan",
           artist:"Vivek",
           cover:"https://image.pmgstatic.com/cache/resized/w936/files/images/film/posters/166/766/166766396_d19535.jpg",
-          source:"mp3/Rise_Of_Mahaan.mp3",
+          source:"mp3/Rise_Of_Mahaan_Mahaan.mp3",
           url:"https://youtu.be/7QeM_rM-z6o?si=NWWANTxfyFQrzsbB",
           favorite: false
         },
@@ -133,7 +133,7 @@ new Vue({
           name: "FEAR - MEGAMIX",
           artist:"CipherX Music",
           cover:"https://img.youtube.com/vi/kNfZt5JWYWU/maxresdefault.jpg",
-          source:"mp3/Fear.mp3",
+          source:"mp3/FEAR.mp3",
           url:"https://youtu.be/kNfZt5JWYWU?si=BfIHVddVbdxpI25y",
           favorite: false
         },
