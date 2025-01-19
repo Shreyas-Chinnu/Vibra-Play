@@ -109,7 +109,7 @@ new Vue({
           name: "Rise of Mahaan",
           artist:"Vivek",
           cover:"https://image.pmgstatic.com/cache/resized/w936/files/images/film/posters/166/766/166766396_d19535.jpg",
-          source:"mp3/Rise_of_Mahaan.mp3",
+          source:"mp3/Rise_Of_Mahaan.mp3",
           url:"https://youtu.be/7QeM_rM-z6o?si=NWWANTxfyFQrzsbB",
           favorite: false
         },
